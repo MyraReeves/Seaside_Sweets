@@ -10,10 +10,10 @@ This is a personal expansion of a previous school assignment.  The original Java
 
 ## Sources
 
-All images were obtained using the "Public Domain" filter on DuckDuckGo's image search, and were visually verified by me on the provider websites as being labelled with a "Public Domain License" and/or "free for personal or business use" notification.
+All images were obtained using the "Public Domain" filter on DuckDuckGo's image search. I visually verified on the provider websites that each was labelled as having a "Public Domain License" and/or "free for personal or business use" notification.
 
-For entertainment purposes, I researched working phone numbers that lead to various automated recordings.  For example, the official Santa Claus phone number and the Rickroll meme joke song.  At this current time of project creation, **all** of the numbers result in automated recordings and **none** of the numbers lead to a live phone.  Should anyone choose to call any of the numbers listed, I hope the resulting recordings bring smiles! 😁
+For entertainment purposes, I researched working phone numbers that lead to various automated recordings.  For example, the official Santa Claus phone number and the Rickroll meme joke song.  At this current time of project creation, **all** of the mock "business location" phone numbers result in automated recordings and **none** of the numbers lead to a live phone.  Should anyone choose to call any of the phone numbers listed on the "Our Locations" page, I hope the resulting surprises bring smiles! 😁
 
-Sales numbers, city names, and hours of operation had been provided to me in the original school assignment, from Code Fellows Academy:  [Part 1](https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/) , [Part 2](https://codefellows.github.io/code-201-guide/curriculum/class-07/lab/) , [Part 3](https://codefellows.github.io/code-201-guide/curriculum/class-09/lab/).
+Sales numbers, city names, and hours of operation were provided to students in the original school assignment, by Code Fellows Academy:  [Part 1](https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/) , [Part 2](https://codefellows.github.io/code-201-guide/curriculum/class-07/lab/) , [Part 3](https://codefellows.github.io/code-201-guide/curriculum/class-09/lab/).
 
-Addresses used for the mock business locations belong to the most appropriately themed public locations (aquariums, etc.) I could easily find in the required cities.
+Addresses used for the mock business locations belong to the most appropriately themed public locations (aquariums, etc.) that I could think of in the required cities.
