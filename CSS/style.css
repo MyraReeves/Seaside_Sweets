@@ -25,7 +25,8 @@ h1{
     color: #0067a5;
     font-size: 44pt;
     margin-top: 50px;
-    margin-left: 40px;
+    /* margin-left: 40px; */
+    text-align: center;
 }
 
 main img {
@@ -41,9 +42,38 @@ main img {
     text-align: center;
 }
 
+
+.locationsContact {
+    position: relative;
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    /* max-height: 250px; */
+    border: 3px solid #0067a5;
+    background-color: black;
+    margin: 1%;
+}
+
+
+.locationsContact:hover .shopInfo{
+    opacity: 1;
+}
+
 .shopInfo {
-    font-size: 20pt;
-    margin-left: 40px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        /* margin-left: 40px; */
+        /* height: 100%; */
+        width: 100%;
+        opacity: 0;
+        transition: 1s ease;
+        background-color: black;
+        text-align: center;
+        color: rgb(215, 244, 250);
+        font-size: 20pt;
 }
 
 footer{
