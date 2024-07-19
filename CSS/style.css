@@ -20,26 +20,35 @@ nav {
     background-color: #0067a5;
 }
 
-h1{
+h1, h2{
     font-family: 'Cookie', cursive;
     color: #0067a5;
-    font-size: 44pt;
-    margin-top: 50px;
+    margin-top: 45px;
     /* margin-left: 40px; */
     text-align: center;
 }
 
+h1 {
+    font-size: 60pt;
+}
+
+
 main img {
     display: block;
-    margin-top: 40pt;
+    /* margin-top: 40pt; */
     margin-left: auto;
     margin-right: auto;
 }
+
 
 #aquarium {
     font-family: 'Cookie';
     font-size: 18pt;
     text-align: center;
+}
+
+h2 {
+    font-size: 44pt;
 }
 
 
