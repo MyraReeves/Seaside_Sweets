@@ -16,4 +16,4 @@ For entertainment purposes, I researched working phone numbers that lead to vari
 
 Sales numbers, city names, and hours of operation were provided to students in the original school assignment, by Code Fellows Academy:  [Part 1](https://codefellows.github.io/code-201-guide/curriculum/class-06/lab/) , [Part 2](https://codefellows.github.io/code-201-guide/curriculum/class-07/lab/) , [Part 3](https://codefellows.github.io/code-201-guide/curriculum/class-09/lab/).
 
-Addresses used for the mock business locations belong to the most appropriately themed public locations (aquariums, etc.) that I could think of in the required cities.
+Addresses for the mock business locations correspond to what seemed like the most appropriately themed public locations (aquariums, etc.) in the required cities.
