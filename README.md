@@ -1,6 +1,6 @@
 # 🪸 Seaside Sweets 🐟
 
-This is a personal expansion of a previous school assignment.  The original Javascript homework had been a single page of mock sales data designed to integrate objects literals, constructor functions, tables, and forms.  I decided to expand the mock website into multiple pages to gain further practice with JavaScript and CSS.
+This is an ongoing personal expansion project inspired by a 2023 school assignment.  The original Javascript homework had been a single page of mock sales data designed to integrate objects literals, constructor functions, tables, and forms.  I decided to expand the mock website into multiple pages to gain further practice using JavaScript and CSS.
 
 ## Languages Used:
 
